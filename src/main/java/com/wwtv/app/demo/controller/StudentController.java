@@ -1,7 +1,7 @@
-package com.wwtv.demo.controller;
+package com.wwtv.app.demo.controller;
 
-import com.wwtv.demo.data.Student;
-import com.wwtv.demo.repo.StudentRepo;
+import com.wwtv.app.demo.data.Student;
+import com.wwtv.app.demo.repo.StudentRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.bind.annotation.*;
